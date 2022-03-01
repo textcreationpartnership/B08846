@@ -1,0 +1,358 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The curtezan unmasked: or, The whoredomes of Jezebel painted to the life. With antidotes against them; or heavenly julips to cool men in the fevor of lust. / Prescribed by a spiritual physician.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 46 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08846</idno>
+            <idno type="OCLC"> 124064140</idno>
+            <idno type="STC">Wing C6595C</idno>
+            <idno type="STC">ESTC R171664</idno>
+            <idno type="EEBO-CITATION">124064140</idno>
+            <idno type="OCLC">ocn 124064140</idno>
+            <idno type="VID">192235</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08846)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192235)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2907:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The curtezan unmasked: or, The whoredomes of Jezebel painted to the life. With antidotes against them; or heavenly julips to cool men in the fevor of lust. / Prescribed by a spiritual physician.</title>
+                  <author>Spiritual physician.</author>
+               </titleStmt>
+               <extent>[2], 35 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Marsh, at the Princes Arms in Chancery-Lane.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1664.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the University of Toronto Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Proverbs III, 3-4 --  Commentaries --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:192235:1"/>
+            <p>The Curtezan unmasked: Or, THE WHOREDOMES OF JEZEBEL Painted to the Life.</p>
+            <p>With ANTIDOTES againſt them; or Heavenly JULIPS to cool Men in the Fever of <hi>LUST.</hi>
+            </p>
+            <p>Preſcribed by a Spiritual Phyſician.</p>
+            <q>
+               <p>—Sanctum nihil eſt &amp; ab inguine Tutum, Non Matrona Laris, non Filia Virgo, neq<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ipſe Sponſus lavis adhuc, non Filius ante pudicus.</p>
+               <bibl>Juvenal. Satyr. 3.</bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Henry Marſh,</hi> at the Princes Arms in Chancery-Lane. 1664.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:192235:2"/>
+            <epigraph>
+               <bibl>
+                  <pb n="1" facs="tcp:192235:2"/>PROV. 3. verſ. 3, 4.</bibl>
+               <q>The lips of a ſtrange woman drop as an honey-comb, and her mouth is ſmoother then oyl: But her end is bitter as wormwood, and ſharp as a two-edged ſword.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>He Text here preſents you with a <hi>ſtrange woman;</hi> with whom though I deſire not to procure you a <hi>familiar ac<g ref="char:EOLhyphen"/>quaintance,</hi> yet I'le give you ſuch cogni<g ref="char:EOLhyphen"/>zance of her, and excite that abhorrency of her baſeneſs in all your minds, that if any have heretofore been ſick for want of her company, he ſhall now be as ſick of it; after I have made it appear that this <note n="a" place="margin">Mu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ier formoſa ſu<g ref="char:EOLhyphen"/>pernè de<g ref="char:EOLhyphen"/>ſinit in piſ<g ref="char:EOLhyphen"/>cem. <hi>Hor.</hi> de arte Poët.</note> beautiful Siren, having a Womans face, ends in the Serpents tail; and diſ<g ref="char:EOLhyphen"/>covered, not onely the <hi>Virgins-face</hi> of this unſatiable <hi>Harpye,</hi> but her cruel ta<g ref="char:EOLhyphen"/>lons alſo ſhrowded under her wings. That you may therefore (as <note n="b" place="margin">2 Sam. 13. 18.</note> 
+               <hi>Amnon</hi>
+               <pb n="2" facs="tcp:192235:3"/> did upon <hi>Tamar)</hi> bolt the door upon this <hi>ſtrange woman,</hi> and no longer endure the <hi>whoredoms</hi> of this painted <hi>Jezebel;</hi> I'le endeavour to characterize her to you, and by the infallible clue of Truth con<g ref="char:EOLhyphen"/>duct you through all her intricate and winding Labyrinths. Be pleaſed there<g ref="char:EOLhyphen"/>fore, for the explication of the word <hi>[Strange]</hi> to take notice, that this Epi<g ref="char:EOLhyphen"/>thite was by the <hi>Graecians</hi> attributed to their common Proſtitutes, which they called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>ſtrangers:</hi> And hence, I conceive, it was that the Comoedian cal<g ref="char:EOLhyphen"/>led <note n="c" place="margin">Terent. in Glycerio.</note> 
+               <hi>Glycerium,</hi> who was thought to live by the unlawful ſubmiſſion of her body, <hi>Peregrinam,</hi> a ſtranger, a ſtrange woman. But I have onely hitherto told you her name; I ſhall now therefore proceed further to deſcribe her to you by her for<g ref="char:EOLhyphen"/>did actions, which will aſcertain you of thoſe miſeries which are her conſtant waiting-women or attendants. That I may therefore ſpeedily proſecute my de<g ref="char:EOLhyphen"/>ſign, She is one whom not <hi>Argus</hi>'s hundred eyes, nor <hi>brazen</hi> walls, nor the moſt vigilant Guards can ſecure from her laſcivious incontinency: the bars and <note n="d" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Homer.</hi>
+               </note> hedges which Nature has made for her
+<pb n="3" facs="tcp:192235:3"/> tongues confinement are not ſufficient to reſtrain it within the limits of a modeſt diſcourſe, and ſhould we lock up her impure lips with a command of ſilence, yet could we never limit the in finiteneſs of her laſcivious tho<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ghts, with which ſhe would as freely commit fornication, as if ſhe were at liberty, and in the en<g ref="char:EOLhyphen"/>joyment of the greateſt voluptuary; and we may ſay of her what <hi>Scipio</hi> in another caſe ſaid of himſelf, <note n="e" place="margin">Nunquam minus ſo<g ref="char:EOLhyphen"/>lus quam cum ſolus. <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ull. de Offi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>She is never leſs alone than when alone.</hi> She tricks her ſelf up with ſuch variety of g<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uderies as if ſhe were to expoſe her body to bring the Devil to her lure, and <hi>tempt the Tempter himſelf</hi> to love her; and were that opinion of <hi>Tertullian</hi> true, That the <hi>Devils</hi> and <hi>fallen Angels</hi> had carnal commerce with the <hi>Daughters of Men,</hi> and they ſhould deſire one to ſatisfie their luſtful appetite, I'de recommend the ſtrange woman in the Text unto them; who (like <hi>Circe)</hi> is an amiable Sorcereſs, and when ſhe hath <hi>once</hi> charm<g ref="char:EOLhyphen"/>ed her <hi>Gallant</hi> with youthful blood ſpark<g ref="char:EOLhyphen"/>ling in his veins, and beauty dancing in his face, into the endleſs Circle of her luſt, hee'l find a difficult <note n="f" place="margin">
+                  <hi>Sed revo<g ref="char:EOLhyphen"/>care gra<g ref="char:EOLhyphen"/>dum ſupe<g ref="char:EOLhyphen"/>raſque e<g ref="char:EOLhyphen"/>vadere ad aurut—Hic labor hoc opus eſt</hi>—Virg.</note> recovery.
+<pb n="4" facs="tcp:192235:4"/>
+               <note n="g" place="margin">Bartholin in Tracta<g ref="char:EOLhyphen"/>tu de mo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u Chyli.</note> Phyſitians tell us, that the reaſon we have in Feveriſh diſtempers our <hi>Paro<g ref="char:EOLhyphen"/>xyſme</hi> but every ſecond, third, or fourth day, and not at every circulation of the blood about the body, is, becauſe the blood when it arrives to the heart muſt acquire ſuch a degree of corruption be<g ref="char:EOLhyphen"/>fore it can effect it, and therefore be<g ref="char:EOLhyphen"/>cauſe this corruption is not ſen<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ble be<g ref="char:EOLhyphen"/>fore many circulations have been per<g ref="char:EOLhyphen"/>formed, it cannot ſo ſoon create a <hi>Pa<g ref="char:EOLhyphen"/>roxyſme:</hi> But in this impure and libidi<g ref="char:EOLhyphen"/>nous ſtrumpets heart 'tis far otherwiſe; for ſhe endures the Paroxyſmes of the <hi>F<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ver</hi> of <hi>Luſt</hi> every hour and moment, and the <hi>circulation</hi> of her luſts in her heart is ſooner perf<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rmed then that of, her blood. <hi>Medea</hi> had not more dam<g ref="char:EOLhyphen"/>nable Arts to preſerve youth and beauty then ſhe, who has perfectly attain'd the Art of making new beauty, new hair, and counterfeit teeth; and not thinking ſhe hath charms enough to render her amiable, has recourſe to the Merchants, as unto Natural Magick, to buy there what Nature would not give her, and to make her ſelf liked in ſpight of Nature's disfavours; and being accuſtomed to var<g ref="char:EOLhyphen"/>niſh
+<pb n="5" facs="tcp:192235:4"/> over her decayed Cheeks, and the ruines of a good Face, with the freſh colours of an adventicious Paint, ſhe by her licentiouſneſs ſeems to uſurp the power and liberty of Painters, who (ac<g ref="char:EOLhyphen"/>cording to the Poet) <note n="h" place="margin">—Picto<g ref="char:EOLhyphen"/>ribus—Quidlibet audendi ſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mper ſuit aequa po<g ref="char:EOLhyphen"/>t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtas. <hi>Hor.</hi> de arte Poët.</note> were priviledg'd to do what they pleaſed; and (to ſay truth) ſhe is an exact Painter in all her actions; for ſhe varniſhes over the de<g ref="char:EOLhyphen"/>formed and execrable Name of <hi>Whore,</hi> with the flouriſhing <hi>Title</hi> and <hi>Colour</hi> of a <hi>Lady of pleaſure:</hi> and whileſt ſhe diſ<g ref="char:EOLhyphen"/>courſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s to her Gallant of the unlawful uſe of her body, ſhe colours it over with the title of a great and incomparable fa<g ref="char:EOLhyphen"/>vour; and <hi>(Mahomet</hi>-like) perſwades all her <hi>adorers,</hi> that there's no <hi>Paradiſe</hi> but that of carnal fruition, and the gra<g ref="char:EOLhyphen"/>tification to a <hi>domineering Luſt:</hi> But I fear that this <hi>Paradiſe</hi> ſhe puts them in will prove but a <hi>Fools Paradiſe;</hi> for I believe they'l quickly conclude, That the ſulphureous flames which <hi>Aetna's</hi> fiery paunch continually vomits into the Air bear not ſo forcible and durable a heat as the Calentures of her luſtful blood; and that the poyſon'd garment dipt in the <hi>Centaúrs</hi> blood, which cauſed
+<pb n="6" facs="tcp:192235:5"/> 
+               <hi>Hercules</hi> to burn in living flames, had had not ſuch vigour and vehemency as her enflamed Luſt. Whileſt I hear one Hiſtorian talk of <hi>Sempronia,</hi> and give her this character, <note n="i" place="margin">
+                  <hi>Saepius petiit viros quàm pete<g ref="char:EOLhyphen"/>b<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tur.</hi> Sa<g ref="char:EOLhyphen"/>luſt.</note> 
+               <hi>That ſhe oftner courted men to her embraces then ſhe was courted by them,</hi> I fancy he makes mention of the ſtrange woman in the Text: and whileſt I hear another report, that <hi>Julia</hi> arrived to that heighth of licentiouſneſs, <note n="k" place="margin">
+                  <hi>Nihil quod tur<g ref="char:EOLhyphen"/>piter face<g ref="char:EOLhyphen"/>re aut pati poſſ<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t in<g ref="char:EOLhyphen"/>f<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ctum re<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>qu<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ret, qu<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>quid lib r<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t pro licito judi<g ref="char:EOLhyphen"/>cans.</hi> Suet.</note> 
+               <hi>That ſhe would leave nothing undone which ſhe could baſely c<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mmit, either by Action or Paſſion, judging that lawful which pleaſed her humour beſt,</hi> me thinks he characterizes our ſtrange woman to us. King <hi>Solomon</hi> (underſtanding a hot Proſtitute) tells us, <hi>Prov.</hi> 6. 27. a man can<g ref="char:EOLhyphen"/>not take fire into his boſom, but he muſt be neceſſarily burnt; and I believe that many of the Gallants of our time, who have thought onely to <hi>warm</hi> and cheriſh their luſts at this ſhe-fire, have at laſt been ſoundly <hi>burnt</hi> by taking her into their boſomes: for this ſtrange Woman is not like the <hi>Glow-worm,</hi> that carries onely a counterfeit <hi>heat,</hi> nor of ſo cold a conſtitution as the <hi>Moon</hi> was when ſhe embraced <hi>Endymion;</hi> but he that em<g ref="char:EOLhyphen"/>braces
+<pb n="7" facs="tcp:192235:5"/> her ſhall find the ſame entain<g ref="char:EOLhyphen"/>ment the Satyr did, that kiſs'd the fiery coal and burnt his lips; and we may ſay of her, what the tyrant <hi>Nero</hi> once ſaid of himſelf and his mother <hi>Agrippina,</hi> 
+               <q> 
+                  <note n="l" place="margin">Sueton. in vit. Neron.</note> That there can nothing come of her into the world but what is deteſtable and accurſed.</q> This <hi>Helena</hi> is hot enough to <hi>inflame Troy;</hi> this <hi>Hecuba</hi> can bring forth nothing but a Fire-brand. Though the Toad hath a precious Stone in her head, yet her body is poyſonous: And ſo, though this Strange Woman may wear a handſome countenance, and for her ſuperficial and skin-deep beauty ſeem an ineſtimable Jewel, yet, if we view her throughly, we ſhall diſcover the ve<g ref="char:EOLhyphen"/>nom of her impure body; for, though <hi>her lips drop as an honey comb, and her mouth is ſmoother then oyl, yet her end is bitter as wormwood, and ſharp as a two-edg'd ſword.</hi> Upon which two Verſes of the Text, as upon two pillars, I build this practical Propoſition,</p>
+            <pb n="8" facs="tcp:192235:6"/>
+            <p> 
+               <hi>That the ſhort and tranſitory plea<g ref="char:EOLhyphen"/>ſures which the ſtrange woman affords us, are accompanied with the ſharpeſt and moſt permanent evils.</hi>
+            </p>
+            <p>And that, Firſt, Becauſe ſhe'l wound and ſtain our reputation. How full is the adulterer of fears and jealouſies, ſcorching deſires, and impatient wait<g ref="char:EOLhyphen"/>ings, tedious demurrs, ſufferance of in<g ref="char:EOLhyphen"/>dignities, and amazements of diſcoveries, and his uncleanneſs is ever attended by ſhame which is its eldeſt daughter; for let us conſider how infamous it has ever been, to be noted for a common <hi>Pathick</hi> or a luſtful <hi>Amoretto,</hi> how oppr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>briouſly Adulterers have been uſed by moſt Na<g ref="char:EOLhyphen"/>tions. The Law of the <hi>Aegyptians</hi> was to cut off the Noſe of an Adulterer; the <hi>Locrians</hi> put out the Adulterers Eyes; and (the more notoriouſly to in<g ref="char:EOLhyphen"/>timate his effeminacy) others cloath<g ref="char:EOLhyphen"/>ed him with wool; and <hi>Solons</hi> Law was this, <hi>If any man take an Adulterer in the fact, he may uſe him how he pleaſes:</hi> And in the Twelve Tables, <note n="m" place="margin">Moechum in adulte<g ref="char:EOLhyphen"/>rio depre<g ref="char:EOLhyphen"/>h<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nſum im<g ref="char:EOLhyphen"/>punè neca<g ref="char:punc">▪</g> to.</note> If you
+<pb n="9" facs="tcp:192235:6"/> take a man in the act of Adultery, you may kill him without danger of puniſh<g ref="char:EOLhyphen"/>ment; Impunity was intailed upon the murther of him. You may obſerve, that this ſin of Adultery is in Scripture called a <hi>ſin of darkneſs;</hi> intimating to us, how the Adulterer, aſham'd of the light, ſneaks up and down in obſcure re<g ref="char:EOLhyphen"/>ceſſes, and is onely active and vigilant when others are quiet and taking their repoſe. Other ſinners iniquities are in Scripture numbred by the hairs of the head; but we cannot number the Adul<g ref="char:EOLhyphen"/>terers ſo, becauſe <hi>as his ſins increaſe his hairs do fall;</hi> the <hi>Spring</hi> of his ſins is his hairs <hi>Fall o'th' leaf.</hi> The ſecond ac<g ref="char:EOLhyphen"/>count upon which the Adulterer will con<g ref="char:EOLhyphen"/>clude, That the tranſitory pleaſures which the ſtrange woman affords us are accom<g ref="char:EOLhyphen"/>panied with the ſharpeſt evils, is,</p>
+            <p>2. Becauſe hee'l finde ſhe will impair the health of his body; for though her Lips drop as an Honey-comb, and ſhe diſtil the Quinteſſence of Rhetorick in every expreſſion; though ſhe does amorouſly careſs and embrace him, yet 'tis but as the encircling Ivie does the Oak, to make him rot, wither, and decay.
+<pb n="10" facs="tcp:192235:7"/> Though he may think himſelf in Hea<g ref="char:EOLhyphen"/>ven, and imagine her <hi>curled Arms</hi> about him to be his <hi>Celeſtial Zodiack,</hi> yet hee'l (at length) finde them but as chains and fetters to enſlave and capti<g ref="char:EOLhyphen"/>vate him to her inſatiable Luſt; the gra<g ref="char:EOLhyphen"/>tifications whereof whileſt he endea<g ref="char:EOLhyphen"/>vours to ſhew her, he muſt undergo as many <hi>gripes</hi> in his guilty Conſcience, as <hi>Aches</hi> in his impure and vitious Body. She, it may be, will foment and cheriſh the flames of his Luſt with theſe plea<g ref="char:EOLhyphen"/>ſing Blaſts, by telling him that the Vir<g ref="char:EOLhyphen"/>gin <hi>Spring</hi> does not appear leſs chaſte becauſe many thirſts are there quench<g ref="char:EOLhyphen"/>ed; and that thoſe Waters ſtink ſoon that continue long in one place, but re<g ref="char:EOLhyphen"/>main ſweet and wholſome whileſt they leave one bank and kiſs another. But let us (like a prudent <hi>
+                  <g ref="char:V">Ʋ</g>lyſſes)</hi> ſtop our ears to the fatal voice of this dangerous <hi>Si<g ref="char:EOLhyphen"/>ren,</hi> leaſt, while we ſail in the <hi>Ocean</hi> of this World, we ſuffer <hi>ſhipwrack</hi> of Grace and a good Conſcience: Don't let us ſtand to diſpute the caſe, and parley with her, but rather flie from her, and avoid her company: For, we muſt be extremely cold, not to be warmed by ſo
+<pb n="11" facs="tcp:192235:7"/> fair a fire, and very ſtrong, to make de<g ref="char:EOLhyphen"/>fence againſt ſo charming an Enemy. Nor can we touch Pitch with our hands, but a foul impreſs will be received from it: One rotten kernel of the Pomgranate infects the fellows; and St. <hi>Paul</hi> made that Verſe Canonical, <hi>Evil communica<g ref="char:EOLhyphen"/>tion corrupts good manners.</hi> And it is noted of <hi>Joſeph,</hi> that as ſoon as his Miſtreſs had laid her impure hands upon his garment, he leaves it behinde him, that he might be ſure to avoid the dan<g ref="char:EOLhyphen"/>ger of her contagious touch. And we ſhall aſſuredly finde, that ſhe who but now compared her ſelf to a <hi>pleaſant Spring,</hi> will at laſt ſerve us with the <hi>bit<g ref="char:EOLhyphen"/>ter Waters</hi> of <hi>Marah.</hi> For I appeal to the common Adulterer, Whether he be not <hi>a walking Hoſpital</hi> and <hi>Peſt-houſe</hi> of <hi>Diſeaſes?</hi> Whether he is not alwayes poſſeſt with a <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a Devil that firſt tempts him to all Uncleanneſs, and afterwards terrifies and exanimates him with the greateſt horrour imaginable? and whether the violent and fervent heat of his luſtfull appetite be not as un<g ref="char:EOLhyphen"/>quenchable as Hell-flames? Could we have <hi>Lynceus</hi> his eyes, and look through
+<pb n="12" facs="tcp:192235:8"/> the decayed walls of his Body, what rot<g ref="char:EOLhyphen"/>tenneſs ſhould we diſcover in his ex<g ref="char:EOLhyphen"/>hauſted Bones? how would the whole Fabrick of his Body appear invalid and unnerved, and repreſent it ſelf to us as the Embleme of a Sack of dry Bones, whoſe every part, were it anatomized and opened, it would corrupt and infect the Air, and ſtore the World with as many Diſeaſes as the opening of <hi>Pandora's</hi> Box: inſomuch that he who ſhall be beſotted with ſo Lethargick a ſtupidity as to harbour and careſs this <hi>ſtrange woman,</hi> He (like the <hi>Hyrcanians)</hi> may be ſaid to keep a Dog to devour himſelf, or (like the mad <hi>Romans</hi> in <hi>Arrian)</hi> court the Fever of his own Luſt, that will ſoon conſume him, and render him as meager and pellucid as the meereſt Skeleton; cauſing withal a no leſs decay in his Eſtate then in his Body; and this I conceive induced <hi>Solomon</hi> to ſay, <note n="n" place="margin">Prov 6. 26.</note> 
+               <hi>That by means of a whoriſh woman a man is brought to a piece of bread, and the adul<g ref="char:EOLhyphen"/>tereſs will hunt for the precious life.</hi> But if this be not ſufficient to deter the Adulterer from this Proſtitutes company, Ple advance a ſtep higher, and preſs
+<pb n="13" facs="tcp:192235:8"/> him with a third Argument, to prove, That thoſe tranſitory pleaſures the ſtrange Woman affords us are accompanied with the ſharpeſt and moſt permanent evils: and that</p>
+            <p>3. Becauſe by her means an irrepa<g ref="char:EOLhyphen"/>rable and irrecoverable damage will ac<g ref="char:EOLhyphen"/>crue to his immortal Soul. And in this St. <hi>Paul</hi> ſhall be my Preſident, who <note n="o" place="margin">1 Cor. 6. 9.</note> bids us not be deceived, aſſuring us, <hi>That neither fornicators, nor adulterers, nor effeminate perſons, ſhall enter into the Kingdome of God.</hi> 
+               <note n="p" place="margin">Rouſe in Archaeolog. Attic.</note> It was not permit<g ref="char:EOLhyphen"/>ted to a Dog to enter into the <hi>Acropolis,</hi> becauſe of his exceſſive heat in Venery; and ſo neither will it be permitted to thoſe that (like the Dog) indulge them<g ref="char:EOLhyphen"/>ſelves in the exceſſive heat of Venery, to enter into <hi>Heaven,</hi> which may for its heighth be called an <hi>Acropolis,</hi> which (being interpreted) is, a City built up<g ref="char:EOLhyphen"/>on a Hill. Let us conſider how impoſſi<g ref="char:EOLhyphen"/>ble it is that our Prayers and Oblations ſhould be acceptable to God, when they are offered with impure hands, reeking in luſt: How can we expect to look God in the face (whoſe eyes are purer then to behold iniquity) with our impure
+<pb n="14" facs="tcp:192235:9"/> eyes? How can we hope to be Eagle-ey'd enough to look up to God, whoſe eyes are ten thouſand times brighter then the Sun, when we have ſo weakned our eyes by the <hi>Works of Darkneſs,</hi> that (like Night-birds) we dread to behold the Light? How ſhould <hi>Chamberings</hi> and <hi>Wantonneſs</hi> hope to get room in Heaven, whence all kind of Marriage is excluded? When the two oppoſite Poles of the World meet together, and two Contra<g ref="char:EOLhyphen"/>dictions at the ſame time prove true, then, and not till then, will I believe that the Fornicator and Heaven can kiſs each other. How can we call God <hi>Fa<g ref="char:EOLhyphen"/>ther,</hi> who utterly renounces thoſe ſpuri<g ref="char:EOLhyphen"/>ous off-ſprings of our ſinful luſts, which have not their Original, nor derive their Pedegree from God, but the World and our depraved Natures? Which S. <hi>John</hi> 
+               <note n="q" place="margin">1 Joh. 2. 16.</note> intimates to us; who making an Inventory of the <hi>Goods,</hi> or rather of the <hi>Evils</hi> of this World, beſides <hi>the Lust of the Eye,</hi> and <hi>the Pride of Life,</hi> he tells us, that the <hi>Lust of the Fleſh is not of God,</hi> but of the <hi>World.</hi>
+            </p>
+            <p>It remains now that I ſhould preſcribe you ſome few <hi>Recipe's</hi> and Antidotes;
+<pb n="15" facs="tcp:192235:9"/> which if you'l make uſe of, I'le warrant to cure you of the Fever of Luſt, into which the <hi>Strange Woman</hi> will endeavour to caſt you: And my firſt is this.</p>
+            <p>Firſt then, Let every one make a Co<g ref="char:EOLhyphen"/>venant with his eyes, never to look upon any object with a luſtfull and impure in<g ref="char:EOLhyphen"/>clination. <hi>Job 31. 1. I have made a Co<g ref="char:EOLhyphen"/>venant with my eyes, why then ſhould I look upon a maid?</hi> Shut your Eyes, thoſe <hi>Windows</hi> of your Soul, through which you receive the <hi>Species</hi> from all ſinful Objects; for, through thoſe <hi>windows</hi> a little ſin (like a little Boy) may creep in, and open the Door of your Heart to the reſt. An eminent Hiſtorian of our own Nation tells us, That whileſt the Earl of <hi>Salisbury</hi> was at the Battel of <hi>Or<g ref="char:EOLhyphen"/>leance,</hi> opening a little window of the Caſtle, where he was to view the Enemy, a little Lad killed him with a Cannon planted and diſcharg'd againſt the Win<g ref="char:EOLhyphen"/>dows. So, it may be, whileſt thou open<g ref="char:EOLhyphen"/>eſt thy Souls windows, thy Eyes, to look upon a beautiful Object, a ſmall Luſt may chance to ſhoot thee with a temp<g ref="char:EOLhyphen"/>tation, and leave thee <hi>dead in ſin</hi> for ever. <hi>Scipio</hi> and <hi>Alexander</hi> both of them are
+<pb n="16" facs="tcp:192235:10"/> reported to have taken fair Captives: <hi>Scipio</hi> would not ſuffer his to come into his ſight, leſt he himſelf might be cap<g ref="char:EOLhyphen"/>tivated by their beauty; but <hi>Alexander</hi> gave his Captives admittance into his preſence: And though <hi>Alexanders</hi> was the greater continency, yet <hi>Scipio</hi> took the wiſeſt courſe; for, <note n="r" place="margin">
+                  <hi>Periculo<g ref="char:EOLhyphen"/>ſum eſt il<g ref="char:EOLhyphen"/>lud per quod quis aliquando captus ſit videre; propè ſe conſequun<g ref="char:EOLhyphen"/>tur proponi formam &amp; exponi pu<g ref="char:EOLhyphen"/>dicitiam.</hi> Senec.</note> 
+               <hi>'Tis dangerous to look upon that by which we may at length be enſnared; the expoſing of Beau<g ref="char:EOLhyphen"/>ty to be ſeen, and the loſs of Modeſty and Chaſtity follow one another.</hi> Let us therefore attend to our bleſſed Savi<g ref="char:EOLhyphen"/>ours words, who tells us, <note n="*" place="margin">Matth. 5. 28.</note> That <hi>whoſo<g ref="char:EOLhyphen"/>ever looks upon a woman</hi> with an intenti<g ref="char:EOLhyphen"/>on <hi>to luſt after her, hath committed adul<g ref="char:EOLhyphen"/>tery with her already in his heart.</hi> When we come into the preſence of <hi>moving Beauties,</hi> we muſt do as men uſually do when the <hi>Summer Sun</hi> grows potent and vehement; though we admire their Beau<g ref="char:EOLhyphen"/>ties greatneſs, yet we muſt ſhun it's heat; each place can afford us a ſhadow to hide us from it. The Poets tell us, that when ſome young men had beheld the three equal beauty'd <hi>Gorgones,</hi> they were there<g ref="char:EOLhyphen"/>by deprived and diveſted of their human ſhape, and metamorphoſed into ſtones:
+<pb n="17" facs="tcp:192235:10"/> So, if we be not cautious how we too laſciviouſly gaze upon powerful Beauties, who knows how ſoon we may be ſo cal<g ref="char:EOLhyphen"/>lous and obdurate, and our hearts be ren<g ref="char:EOLhyphen"/>dred ſo ſtony, that without the leaſt re<g ref="char:EOLhyphen"/>gret or remorſe we may firſt fall into the profound Abyſs of Adultery, and thence to that bottomleſs one of Hell. We muſt not do by a beautiful Object as by the Cro<g ref="char:EOLhyphen"/>codile, but quite contrary; for we muſt be ſure <hi>not to look firſt upon it,</hi> and then we ſhall remain ſecure from its <hi>killing glances:</hi> for, he who is ſtill looking, and always gazing, acts like him who drinks Wine in the very heighth of a Fever. But if ſtill men will look upon fair Ob<g ref="char:EOLhyphen"/>jects, let the ſame uſe be made of them which the wiſer ſort of Catholicks do of Pictures; let their beautiful features ſerve to raiſe our Devotion to God, and make us admire his curious workmanſhip. And ſince Women are of late grown ſo proud and licentious as to expoſe and proſtitute themſelves to the eyes of men in unſeemly and immodeſt geſtures, and they onely ſhew them<g ref="char:EOLhyphen"/>ſelves true <hi>Britains</hi> in this, that, like the ancient <hi>Britains,</hi> they delight to paint
+<pb n="18" facs="tcp:192235:11"/> their bodies, and (like the Rain-bow) diſplay their tranſient and fading colours; let us, when we ſee ſuch as theſe, call to mind theſe Conſiderations to allay thoſe inordinacies which may otherwiſe ariſe in our thoughts from the contemplation of ſo vicious objects. Let us conſider, That they are but vain Dames, to beſtow ſuch curious coſt on ſo woful and ſordid a piece of dirt, which (it may be) would otherwiſe reſemble the clay <hi>Prometheus</hi> us'd before it was inform'd and anima<g ref="char:EOLhyphen"/>ted; That 'tis their folly to guild a clay Wall, and enamel a <hi>Bubble,</hi> when they can give no other then a <hi>Womans</hi> Reaſon for it. Let us conſider, That Women have no beauty but what we are plea<g ref="char:EOLhyphen"/>ſed to give them; and that if we call them fair, 'tis but in the way of Poetry or Complement: And that theſe dim <hi>Cynthia's</hi> would be very obſcure, if they borrowed not that light they have from the Sun of mens favour. Or ſuppoſe we are ſo candid and ingenuous as to grant them beautiful, yet we may ſee by ex<g ref="char:EOLhyphen"/>perience, that their Beauty is like a ſweet and much coveted Banquet, which is no ſooner taſted but its delicious Luxury is
+<pb n="19" facs="tcp:192235:11"/> ſwallowed up by Oblivion. Let us think with our ſelves, That there's no confor<g ref="char:EOLhyphen"/>mation of lineaments, no compoſition of features, no ſymmetry of parts ſo exact<g ref="char:EOLhyphen"/>ly combin'd and compacted in one per<g ref="char:EOLhyphen"/>ſon, but a critical eye may diſcover ſome imperfection: faireſt <hi>Cynthia</hi> is not without her ſpots, nor beautiful <hi>Venus</hi> without her moles.</p>
+            <p>2. If you would be cured of the Fever of Luſt, into which the <hi>Strange Woman</hi> will endeavour to caſt you, uſe a mode<g ref="char:EOLhyphen"/>rate, ſlender and aſcetick Diet: Be content with that with which Nature her ſelf wil be contented, and then <note n="s" place="margin">
+                  <hi>Natura p<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ucis con<g ref="char:EOLhyphen"/>tenta.</hi> Sen.</note> a little will ſuf<g ref="char:EOLhyphen"/>fice you; and if you do this, <note n="t" place="margin">
+                  <hi>Nunquam aliud na<g ref="char:EOLhyphen"/>tura aliad ſapientia dicit.</hi> Hor.</note> you will act according to the Rules of Diſcretion and Prudence. Uſe Faſting and ſevere Abſtinence, which are the proper Ab<g ref="char:EOLhyphen"/>ſciſſions of the inſtruments and tempta<g ref="char:EOLhyphen"/>tions of luſt. And to this is reducible a reſtraint from all moroſe delectation, and looſer banquetting: You muſt not deſire to be fed at <hi>Vitellius</hi> his board; you muſt not deſire <hi>Nero</hi>'s effeminate baths, nor <hi>Tiberius</hi> his naked Pictures to incite your luſt; you muſt not hunt all grounds, draw all ſeas, ſearch every
+<pb n="20" facs="tcp:192235:12"/> brook and buſh, or diſpeople the four Elements to pleaſe your wanton luſts, and try experiments upon your judicious palates; but as you muſt abſtain from <note n="u" place="margin">
+                  <hi>
+                     <g ref="char:V">Ʋ</g>t ſ<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m<g ref="char:EOLhyphen"/>per abſti<g ref="char:EOLhyphen"/>neas ab il<g ref="char:EOLhyphen"/>licitis ali<g ref="char:EOLhyphen"/>quando e<g ref="char:EOLhyphen"/>tiam a li<g ref="char:EOLhyphen"/>citis.</hi> Sen.</note> things <hi>unlawful,</hi> ſo alſo from <hi>lawful</hi> too: You muſt not onely take care you tranſcend not the <hi>Bounds</hi> of <hi>Temperance and Moderation,</hi> but you muſt ſometimes abridge your ſelves of your neceſſary re<g ref="char:EOLhyphen"/>paſt; aſſuring your ſelves, <hi>That the more</hi> 
+               <note n="x" place="margin">
+                  <hi>Quanto quiſque ſi<g ref="char:EOLhyphen"/>bi plura neg averit a diis plu<g ref="char:EOLhyphen"/>ra feret.</hi> Horat.</note> 
+               <hi>you deny your ſelves, the more you ſhall receive from God.</hi> 'Tis ſtoried of <hi>Richard Nevil</hi> Earl of <hi>Warwick,</hi> (ſtiled alſo <hi>Make-King,)</hi> that in the great Battel at <hi>Ferrybrigg</hi> between <hi>Henry</hi> the Sixth and <hi>Edward</hi> the Fourth, when he per<g ref="char:EOLhyphen"/>ceived his ſide almoſt worſted by <hi>Henry</hi> the Sixth, he ſlew his Horſe with his own Sword, and then uttered theſe Heroick expreſſions, <hi>Let all that will fight ſtay with me;</hi> and then (according to the Ceremony of thoſe times) kiſſing the Croſs upon his Sword, he fought with ſingular courage and proweſs: So in the conflict between our Luſts and us, let us kill and mortifie our Bodies, which (in the language of <hi>Socrates)</hi> are our Soul's Horſes, and then excite every Faculty
+<pb n="21" facs="tcp:192235:12"/> of our Souls with theſe words, <hi>Let all that will fight ſtay with me;</hi> and when we have done thus, let us kiſs and take up our Croſs, and fight ſtoutly under Chriſt the Captain of our Salvation a<g ref="char:EOLhyphen"/>gainſt our Luſts; it being impoſſible to keep the Spirit pure, whileſt 'tis over<g ref="char:EOLhyphen"/>burdened with too much Fleſh, and ex<g ref="char:EOLhyphen"/>poſed to all entertainments of Enemies by fomentations and pamperings; re<g ref="char:EOLhyphen"/>membring the divine counſel of the <note n="y" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Hierocl.</note> Philoſopher, <hi>That we muſt not take care for the Body ſimply as the Body, but as ſubſervient to the Soul.</hi> And that you may be the better induced to do this, re<g ref="char:EOLhyphen"/>member (as the fore-cited Author <note n="z" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> has well ſaid, <hi>That your Soul is your ſelf, but your Body yours; for 'tis the Soul which uſes, but that which is uſed by it is the Body:</hi> And by this ſeparation of the Soul from the Body, you will preſerve your nature from confuſion, nor think that things <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> which are without concern you, nor contend for thoſe as for your ſelf, and ſo conſequently avoid too much care of your body; not reſembling thoſe, that, ſo that Sumpter-horſe the Body be hung with gaudy Trappings, and pamper'd,
+<pb n="22" facs="tcp:192235:13"/> care not with what rags they cloath the Soul. We may alſo conſider that theſe high pamperings and feaſting our ſelves have no real pleaſure in them; and this I am ſure was the Orators judgment, when he ſaid, <note n="a" place="margin">Nolim mihi finge<g ref="char:EOLhyphen"/>re aſotos, qui in men<g ref="char:EOLhyphen"/>ſam vo<g ref="char:EOLhyphen"/>mant, &amp; qui de conviviis auferan<g ref="char:EOLhyphen"/>tur, cru<g ref="char:EOLhyphen"/>di<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſe po<g ref="char:EOLhyphen"/>ſtridiè rur<g ref="char:EOLhyphen"/>ſús ingur<g ref="char:EOLhyphen"/>gitent, qui Solem (ut ajunt) n<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Occiden<g ref="char:EOLhyphen"/>tem un<g ref="char:EOLhyphen"/>quam vi<g ref="char:EOLhyphen"/>derint nec Orient<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m, qui con<g ref="char:EOLhyphen"/>ſumptis pa<g ref="char:EOLhyphen"/>trimoniis egent, ne<g ref="char:EOLhyphen"/>mo noſtrum iſtius generis aſotas jucundè putat vivere. <hi>Tull.</hi> de Finibus Bonor. &amp; Malor.</note> 
+               <hi>I would not fancy or ima<g ref="char:EOLhyphen"/>gine with my ſelf as if luxurious gluttons lived pleaſantly, and ſuch who vomit up<g ref="char:EOLhyphen"/>on the table again what but now they took off, and with their crude ſtomacks, carri<g ref="char:EOLhyphen"/>ed from Feaſts, the next day ingurgitate themſelves into them again; who, by reaſon of their lazineſs and ſurfeiting, ſee the Sun neither riſe nor ſet, and are in indi<g ref="char:EOLhyphen"/>gency of thoſe Eſtates which they have profuſely expended: none of us</hi> (ſaith he) <hi>ever thought ſuch gluttons as theſe live a pleaſant life.</hi> And the ſame Author tells us, <note n="b" place="margin">
+                  <hi>In tenuiſſimo ego victu, i. e. eſcis contemptiſſimis &amp; potionibus non minorem voluptatem percipi arbitror quam rebus exquiſitiſſimis ad epulandu<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> Tull. ibid.</note> That there is no leſs pleaſure to be taken in a ſlender and ſpare diet, then in the moſt exquiſite dainties; there being no leſs delight in the <hi>Perſian Naſturtium,</hi> then in the richly furniſhed <hi>Syracuſan</hi> Tables, ſo much cry'd down and diſcom<g ref="char:EOLhyphen"/>mended
+<pb n="23" facs="tcp:192235:13"/> by <hi>Plato.</hi> Put this ſhall ſuf<g ref="char:EOLhyphen"/>fice for the ſecond <hi>Recipe:</hi> and my third is this.</p>
+            <p>3. Secure your Heart ſo well that no ill thought creeps into it, and proves an incentive to luſt; let not the ſmalleſt ventricle of your heart conceive an evil thought, leſt at laſt it bring forth ſin. One little Flie will taint and corrupt a great quantity of fleſh; and ſo one little thought hovering about thy heart (like a little Flie) will quickly taint it. Be ſure therefore (like the Emperour <hi>Domi<g ref="char:EOLhyphen"/>tian</hi> 
+               <note n="c" place="margin">Sueton. in vit Do<g ref="char:EOLhyphen"/>mitian.</note> alwayes to be catching and kil<g ref="char:EOLhyphen"/>ling theſe Flies. Conſider, that if you indulge your ſelves in wicked thoughts and luſtings, there wants nothing to the conſummation of the act but ſome con<g ref="char:EOLhyphen"/>venient circumſtances, which becauſe they are not then attainable, the act is for a time impeded, but the malice no<g ref="char:EOLhyphen"/>thing abated: For <note n="d" place="margin">Lex non concupi<g ref="char:EOLhyphen"/>ſcendi, ori<g ref="char:EOLhyphen"/>gines d<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>li<g ref="char:EOLhyphen"/>ctorum, i. e. concupiſcentias &amp; voluntates non minùs quàm facta con<g ref="char:EOLhyphen"/>d<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mnat. <hi>Tertull.</hi> de Pudicit.</note> the Law of <hi>Not co<g ref="char:EOLhyphen"/>veting</hi> no leſs forbids ſinful deſires and concupiſcences then ſinful actions; for no man deſires of luſts after any thing
+<pb n="24" facs="tcp:192235:14"/> but what pleaſes him: But every com<g ref="char:EOLhyphen"/>placency or delight in an unlawful mat<g ref="char:EOLhyphen"/>ter, although ſhort and tranſient, nay, although at laſt repulſed and cohibited from breaking out into an external act, hath contracted by that very motion the blemiſh and ſpot of an internal ſin. And hence S. <hi>Auguſtin,</hi> following the Doctrine of S. <hi>Paul,</hi> affirms, <note n="e" place="margin">
+                  <hi>Peccatum eſt, quia illi ineſt inobedien<g ref="char:EOLhyphen"/>tia contrà domina<g ref="char:EOLhyphen"/>tum men<g ref="char:EOLhyphen"/>tis.</hi> Aug. <hi>lib. 5. c. 3. contrà</hi> Ju<g ref="char:EOLhyphen"/>lian.</note> That the <hi>concupiſcence of the fleſh</hi> is ſin in a good man, <hi>Becauſe he has in him a diſobedience and reluctancy a<g ref="char:EOLhyphen"/>gainſt the government of the rational facul<g ref="char:EOLhyphen"/>ty.</hi> Again, He ſins that inwardly luſteth or deſires, although he follow not thoſe de<g ref="char:EOLhyphen"/>ſires by a conſequent act, Becauſe ſuch motions are not pure paſſions, but in<g ref="char:EOLhyphen"/>volve negations of due acts which ought to have been in lieu thereof: A man may be inceſtuous <note n="*" place="margin">
+                  <hi>Inceſta eſt ſin<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſtu<g ref="char:EOLhyphen"/>pro anima quae ſtu<g ref="char:EOLhyphen"/>p<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>um quae<g ref="char:punc">▪</g> rit.</hi> Sen.</note> that never bodily commits the act; and from theſe impure fires, which men kindle and cheriſh with<g ref="char:EOLhyphen"/>in them, they are uſually in love with their deformed luſts, as <hi>Alcaeus</hi> was with the warts <note n="f" place="margin">
+                  <hi>Naevus in vul<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u de<g ref="char:EOLhyphen"/>lectat Al<g ref="char:EOLunhyphen"/>caeum, erat deformi<g ref="char:EOLhyphen"/>tas, at illi placebat.</hi> Cic.</note> in his Boys face, though they are deformed marks. When <hi>Brutus</hi> and <hi>Caſſius</hi> aſſaulted <hi>Caeſar</hi> with a deſign and reſolution to murther him, we read<g ref="char:punc">▪</g> that as ſoon as he ſaw <hi>Brutus</hi> he cryed
+<pb n="25" facs="tcp:192235:14"/> out, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; <hi>And art thou here my Son, my Darling?</hi> and opened his breaſt to him. So when any Luſt comes to aſſault us with a deſign to make us dead in ſin, we court and careſs it in <hi>Caeſars</hi> words, Art thou here, my Darling? and open our hearts and breaſts unto it; whereas we ſhould alwayes be prepared with preſer<g ref="char:EOLhyphen"/>vatories againſt it.</p>
+            <p>4. Let your diſcourſe be alwayes chaſt and pure: Decline with great care all undecent obſcenity in your language, chaſtening and confining your tongue, and reſtraining it with Grace; for, as St. <hi>James</hi> tells us, <hi>Jam. 3. 2. If any man offend not in word</hi> (tongue) <hi>the ſame is a perfect man, and able alſo to bridle the whole body.</hi> Either be ſilent, or ſpeak thoſe things which are better then ſilence, is a good Rule here. Every bad tree is known by its bad fruit, and an unclean man may be trac'd by his unclean diſ<g ref="char:EOLhyphen"/>courſe; it being a ſhrewd ſymptom the Will is depraved, when our Diſcourſe is unchaſte and obſcence. And in this <note n="g" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Hierocl.</note> 
+               <hi>Hie<g ref="char:EOLhyphen"/>rocles</hi> concurrs with me; <hi>The Will of man</hi>
+               <pb n="26" facs="tcp:192235:15"/> (ſaith he) <hi>adhering long neither to Virtue nor Vice, utters forth expreſſions incli<g ref="char:EOLhyphen"/>ning to both, as reſembling the contrary affections in it.</hi> This advice therefore of <hi>Tyrius Maximus</hi> is very ſoveraign; <note n="h" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Tyr Max<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m.</note> 
+               <hi>I require ſuch a pleaſure in words which Virtue may not diſdain to make her Wai<g ref="char:EOLhyphen"/>ting-woman and attend upon her.</hi> St. <hi>James</hi> calls the Tongue a <hi>fire,</hi> Jam. 3. 6. And the School-men call the Luſts of the Fleſh <hi>(Fomes)</hi> Tinder. Let us therefore be careful that the Fire of our Tongue light not upon this Tinder, and kindle it. Modeſty and a becoming Bluſh is the <hi>Fence</hi> of all Virtue; and when this is broken down by obſcene talk, the <hi>Banks</hi> will over flow with impure <hi>Streams.</hi> A Roſe, when it hath loſt its bluſh, and be<g ref="char:EOLhyphen"/>gins to look pale, by thoſe ſymptoms you may conclude that 'tis a dying. It hath ever been accounted a true Rule, <hi>Qualis Vir, talis Oratio.</hi> We know the Bird by the Tune, the Beagle by his Mouth, and a Man by his Words. We cannot expect that he that hath loſt his <hi>voice</hi> with his <hi>Chaſtity</hi> ſhould ſing Praiſes to God ſo <hi>melodiouſly</hi> as another that is chaſte, virtuous, and continent. A ſtink<g ref="char:EOLhyphen"/>ing
+<pb n="27" facs="tcp:192235:15"/> breath is not a more ſure ſymptom of <hi>putrid Lungs,</hi> then an obſcene Tongue of an <hi>unclean Heart.</hi> 'Twere better that this <hi>Clapper</hi> ſtood ſtill, except it could give a <hi>purer ſound;</hi> it were better this <hi>Clock</hi> never ſtruck, except it were for other ends then to awaken our Luſts, and put them in motion. And I look upon ob<g ref="char:EOLhyphen"/>ſcene diſcourſe but as an <hi>impure Breath</hi> coming out of the mouth, which is fit for nothing but to make an <hi>Exhalation</hi> or <hi>Ignis fatuus,</hi> which (if we follow it) will lead us into Bogs and precipices of <hi>Uncleanneſs;</hi> but if we <hi>fall down,</hi> and proſtrate our ſelves before God in <hi>Pray<g ref="char:EOLhyphen"/>er,</hi> it will quickly be diſſolved: Where<g ref="char:EOLhyphen"/>fore,</p>
+            <p>5. Let us uſe frequent and earneſt Prayers to God, to give us the aſſiſtance of his holy Spirit; for this Devil of Luſt ſometimes cannot be caſt out but by Prayer. When the <hi>Romans</hi> were in great diſtreſs, &amp; ſurprized with a ſudden aſſault of their Enemies, they ran to the Tem<g ref="char:EOLhyphen"/>ple to get Arms, which were laid there againſt an extraordinary occaſion: So, if we ſhall be at any time aſſaulted by our Luſts, let us have recourſe to the Tem<g ref="char:EOLhyphen"/>ple
+<pb n="28" facs="tcp:192235:16"/> of God, and take up the Arms of the Church, which are Prayers and Tears. We muſt not (as <hi>Nero</hi> did at the burning of <hi>Rome)</hi> ſing <hi>Paeans</hi> and re<g ref="char:EOLhyphen"/>joyce, when our Bodies (thoſe Temples of the Holy Ghoſt) are burning with the flames of Luſt. <hi>Numa Pompilius,</hi> when news was brought him that his Enemies were ready to ſurprize him, put off the Meſſenger with this ready memorable ſpeech, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>I am offering a ſacrifice to God:</hi> So, when we have any news of being ſurprized by our Luſts, we may return the ſame anſwer; 'Tis enough if we are at our Prayers, which will ſecure and guard us from them. <hi>Plu<g ref="char:EOLhyphen"/>tarch</hi> reports of a Boy, who though he was burnt with a coal that fell from the Altar, yet continued his oblation of Sacrifice without intermiſſion: So let us (though we are ſometimes burned with the fire of Luſt) be ſo fervent in our Prayers to God, that the <hi>fervency</hi> of them may exceed and draw away the heat of our Luſts, as a great Fire does the heat which was cauſed by a leſs.</p>
+            <p>6. Avoid Idleneſs, and be ſure alwayes to be well employed. I may give an idle
+<pb n="29" facs="tcp:192235:16"/> man that character one <note n="i" place="margin">Simul ac ſe remiſe<g ref="char:EOLhyphen"/>rat, nec cauſa ſub<g ref="char:EOLhyphen"/>erat quare laborem ferret lu<g ref="char:EOLhyphen"/>xurioſus, diſſolutus, libidino<g ref="char:EOLhyphen"/>ſus, ac in<g ref="char:EOLhyphen"/>temperans reperieba<g ref="char:EOLhyphen"/>tur.</note> gives of <hi>Themi<g ref="char:EOLhyphen"/>ſtocles</hi> when out of imployment, <hi>That he will be luxurious, diſſolute, luſtful, and intemperate.</hi> Mans heart is a Mill ever grinding ſome griſt or other; and I may add, If there be no grain for it to work upon, it ſets it ſelf on fire with luſt. Let us conſider, that whileſt we are idle, and not imployed, we can expect no aſ<g ref="char:EOLhyphen"/>ſiſtance from God, if we ſhould be aſ<g ref="char:EOLhyphen"/>ſaulted by Luſt: according to that of the Hiſtorian, <note n="k" place="margin">
+                  <hi>Ubi ſo<g ref="char:EOLhyphen"/>cordiae at<g ref="char:EOLhyphen"/>que igna<g ref="char:EOLhyphen"/>viae te de<g ref="char:EOLhyphen"/>deris, ne<g ref="char:EOLhyphen"/>quicquam Deos im<g ref="char:EOLhyphen"/>plores, ira<g ref="char:EOLhyphen"/>ti at<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> in feſti ſunt.</hi> Saluſt.</note> 
+               <hi>When we once give our ſelves over to idleneſs, we ſhall in vain implore the aid and aſſiſtance of God, for then he is angry and offended at us.</hi> No, no, let us rather be in continual action and im<g ref="char:EOLhyphen"/>ployment, and be diligently converſant in our ſeveral lawful vocations: For (as the ſame Author tells us) <note n="l" place="margin">
+                  <hi>Non votis neque ſup<g ref="char:EOLhyphen"/>plicatio<g ref="char:EOLhyphen"/>nibus muli<g ref="char:EOLhyphen"/>ebribus auxilia Deorum parantur, vigiland<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, agendo, be<g ref="char:EOLhyphen"/>ne conſulendo, proſperè omnia cedent.</hi> Sal. de Bel. Lat.</note> 
+               <hi>We cannot by a few weak Prayers only and faint Supplica<g ref="char:EOLhyphen"/>tions obtain aid and aſſiſtance from God; but by watching, and being in continual action and conſultation, all things will ſuc<g ref="char:EOLhyphen"/>ceed proſperouſly unto us.</hi> It was a ſaying
+<pb n="30" facs="tcp:192235:17"/> of <hi>Appius Clodius,</hi> 
+               <note n="m" place="margin">Negoti<g ref="char:EOLhyphen"/>um meliùs populo Ro<g ref="char:EOLhyphen"/>mano qu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m otium com<g ref="char:EOLhyphen"/>mitti quòd imperia praepoten<g ref="char:EOLhyphen"/>tia agita<g ref="char:EOLhyphen"/>tione re<g ref="char:EOLhyphen"/>rum ad virtutem capeſſen<g ref="char:EOLhyphen"/>dam exci<g ref="char:EOLhyphen"/>tarentur. <hi>Flor.</hi> l<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b 3.</note> 
+               <hi>That it were better for the</hi> Romans <hi>to be buſied and imployed, then remiſs and idle; Becauſe great Em<g ref="char:EOLhyphen"/>pires by agitation and motion are excited to Vertue.</hi> And it was anothers com<g ref="char:EOLhyphen"/>plaint, <note n="n" place="margin">
+                  <hi>Res diſci<g ref="char:EOLhyphen"/>plinae ini<g ref="char:EOLhyphen"/>miciſſima otium mi<g ref="char:EOLhyphen"/>l<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tes corru<g ref="char:EOLhyphen"/>pit.</hi> Pater<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>lib.</hi> 2.</note> 
+               <hi>That Idleneſs (that great enemy to Diſcipline) corrupted and ſpoiled the</hi> Roman <hi>Souldiers.</hi> And ſo may we com<g ref="char:EOLhyphen"/>plain, that Idleneſs hinders us in our Spiritual Warfare againſt our Luſts. Whileſt <hi>Atalanta</hi> was imployed in hunt<g ref="char:EOLhyphen"/>ing with <hi>Diana,</hi> ſhe kept her Virginity pure and immaculate; but when ſhe fell into Idleneſs, ſhe indulg'd her ſelf in the gratification of her inſatiable Luſts: So, whileſt our Souls are employed in hunting after knowledge, and other things which are commendable and praiſe-wor<g ref="char:EOLhyphen"/>thy, they may preſerve themſelves from Luſt and Uncleanneſs. It was a ſaying of a <hi>Latine</hi> Poet, <note n="o" place="margin">
+                  <hi>Otia ſi tollas peri<g ref="char:EOLhyphen"/>ere Cupidi<g ref="char:EOLhyphen"/>nis arcus.</hi> Ovid. de Remed. A<g ref="char:EOLhyphen"/>mor.</note> 
+               <hi>Take away Idleneſs, and you break</hi> Cupids <hi>Bow:</hi> And I may ſay, with more then <hi>Poetical Authority,</hi> Take away Idleneſs, and you break the Devils Bow: for Idleneſs is the Bow out of which the Devil ſhoots the fiery Darts of his Temptations at us. And if, after all theſe Means uſed, you cannot
+<pb n="31" facs="tcp:192235:17"/> contain your ſelves within the bounds of Chaſtity, then</p>
+            <p>7. Enter the ſacred Bonds of <hi>Ma<g ref="char:EOLhyphen"/>trimony:</hi> 'Tis far better thou ſhouldeſt marry then burn. Take St. <hi>Pauls</hi> coun<g ref="char:EOLhyphen"/>ſel, who, <note n="p" place="margin">1 Cor. 7. 2.</note> 
+               <hi>to avoid fornication,</hi> bids <hi>every man have his own Wife, and every woman have her own Husband.</hi> And though I cannot but eſteem a ſingle life and holy Caelibate (which was conſecrated by the holy <hi>Jeſus</hi> in his proper perſon) to be an excellent Virtue; yet ſince every one hath not that gift of continence which our Saviour had, and God hath inſtituted Matrimony as an Ordinance, and the holy <hi>Jeſus</hi> hallowed it and made it honourable with the expence of the firſt Miracle (we read) he ever per<g ref="char:EOLhyphen"/>formed on Earth, and made it more ſub<g ref="char:EOLhyphen"/>limate by making it a Repreſentation of the Union betwixt Him and his Spouſe the Church; it is a thing highly com<g ref="char:EOLhyphen"/>mendable in it ſelf, and to be made uſe of as a great Preſervative againſt in<g ref="char:EOLhyphen"/>ordinacies in our Affections and unruly Paſſions: And a Learned Author puts it in the Catalogue of ſuch <hi>Arts</hi> 
+               <note n="q" place="margin">
+                  <hi>Sine qui<g ref="char:EOLhyphen"/>bus vita commodè duci ne<g ref="char:EOLhyphen"/>quit.</hi> Grot. de Jur. Bel. &amp; Pac.</note> 
+               <hi>with<g ref="char:EOLhyphen"/>out which a man cannot live well and
+<pb n="32" facs="tcp:192235:18"/> happily;</hi> and ſays, <q>That although to live a ſingle life is not totally repug<g ref="char:EOLhyphen"/>nant to Humane Nature, yet it is re<g ref="char:EOLhyphen"/>pugnant to the Nature of moſt Men; Becauſe a ſingle life and caelibate are onely fitted for the moſt excellent Minds, and ſuch as are refined from the droſs of impure concupiſcence.</q> And another Author brings in <hi>Romulus</hi> ſpeaking to his neighbouring Nations, <note n="r" place="margin">
+                  <hi>Ne gra<g ref="char:EOLhyphen"/>ventur ho<g ref="char:EOLhyphen"/>mines cum hominibus genus &amp; ſanguinem miſcere.</hi> L<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>v De<g ref="char:EOLhyphen"/>cad. lib. 1.</note> 
+               <hi>That they would not grudge to mix themſelves together in a joynt Allyance and Conſanguinity.</hi> And though the <hi>Roman</hi> State ſeemed to countenance a ſingle life, becauſe they afforded Digni<g ref="char:EOLhyphen"/>ties to certain Veſtal Virgins, yet the number of thoſe Veſtals was but ſmall; and then the Dignities and Priviledges which they had were no other but that they were made equal in State to mar<g ref="char:EOLhyphen"/>ried Wives; they were preferred be<g ref="char:EOLhyphen"/>fore all that lived unmarried, but not before married perſons.</p>
+            <p>But whileſt I am ſpeaking of this Or<g ref="char:EOLhyphen"/>der of Veſtal Nuns, I cannot but en<g ref="char:EOLhyphen"/>deavour to excite in you an abhorrency of thoſe deſtructive Nunneries into which the Papiſts caſt their Virgins in their
+<pb n="33" facs="tcp:192235:18"/> infancy, and before they come to ma<g ref="char:EOLhyphen"/>turity of years, or are (which they can never be) able to judge of the ſtrength of their own continency. Into what Stews have theſe Nunneries been fre<g ref="char:EOLhyphen"/>quently converted, by reaſon of reſtrain<g ref="char:EOLhyphen"/>ing thoſe from the ſacred Ligament of Marriage who have not ſo abſolute a command over themſelves as to abſtain from unlawful carnality? How is that ſacred Fire, which among the <hi>Romans</hi> of old was preſerved by their Veſtal Virgins, by theſe changed into <hi>Flames of Luſt,</hi> which all their <hi>Holy-Water</hi> will never allay or extinguiſh? Oh! that theſe ſottiſh abuſers of the Holy Ordinance of God called Marriage would but call to minde how the bleſſed and immaculate Virgin (our Saviours Mother) was betrothed to <hi>Joſeph,</hi> leſt honourable Marriage might be diſrepu<g ref="char:EOLhyphen"/>ted, and ſeem inglorious, by a poſitive rejection from any participation of that tranſcendent honour! I could heartily wiſh that theſe our <hi>Romaniſts</hi> would but imitate the brave example of the old <hi>Romans,</hi> who thought none eligible to be <hi>Jupiters</hi> Prieſts but ſuch as were
+<pb n="34" facs="tcp:192235:19"/> Married; and (as <hi>Tacitus</hi> and <hi>Sueto<g ref="char:EOLhyphen"/>nius</hi> tell us) ſet a Fine upon their heads who refuſed to be united in the holy Bonds of Matrimony. It was out of reſpect to this, that the Emperour <hi>Au<g ref="char:EOLhyphen"/>guſtus</hi> ſent for <hi>Germanicus</hi> his Chil<g ref="char:EOLhyphen"/>dren, and hugging and careſſing them in his Royal breaſt, ſignified by his countenance, and other ſignes of his hand, that others ought to imitate <hi>Ger<g ref="char:EOLhyphen"/>manicus</hi> in marrying with joy and ala<g ref="char:EOLhyphen"/>crity.</p>
+            <p>And thus you ſee I have aſſerted and maintained the laudable Priviledge and Ordination of Marriage; and now can<g ref="char:EOLhyphen"/>not but be convinced that you think, in this my laſt <hi>Recipe</hi> of Marriage I have preſcribed you pleaſanter Phyſick then in any of the former: If therefore you cannot obtain a cure from them, you may from this joyned to them. <hi>Sueto<g ref="char:EOLhyphen"/>nius</hi> tells us, that <hi>Galba</hi> ſelected a Jewel to beautifie and adorn the Goddeſs <hi>For<g ref="char:EOLhyphen"/>tune;</hi> which (on the ſudden) as if it deſerved a more ſacred Deity, he de<g ref="char:EOLhyphen"/>dicated to <hi>Venus.</hi> But I hope, that we, after we have ſelected thoſe Pearls of price our Souls for Gods ſervice, ſhall not
+<pb n="35" facs="tcp:192235:19"/> dedicate them to <hi>Venus</hi> and our ſenſual appetites, for we are moſt certainly in<g ref="char:EOLhyphen"/>formed by the Text, <hi>That the end there<g ref="char:EOLhyphen"/>of is bitter as wormwood, and ſharp as a two-edged ſword.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:192235:20"/>
+         </div>
+      </body>
+   </text>
+</TEI>
